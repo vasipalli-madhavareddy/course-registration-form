@@ -47,7 +47,8 @@ course-registration-form
 ---
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here after hosting)
+Here is the hosting link of Course Registration Form
+https://vasipalli-madhavareddy.github.io/course-registration-form/
 
 ---
 
